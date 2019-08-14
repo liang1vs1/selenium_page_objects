@@ -17,6 +17,8 @@ LOCATOR_LIST = {
 }
 
 
+
+
 class PageObject:
     """
     Page Object pattern.
